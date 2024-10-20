@@ -9,4 +9,9 @@
 3. Mengatur Clearfix Element dibawah box element
 ![image](https://github.com/user-attachments/assets/fd7e2838-fc38-4670-8865-3d4ffed2d741)
 
-4. 
+4. Layout Sederhana
+![image](https://github.com/user-attachments/assets/e1adb738-1071-411c-8e81-5ad0bfc4a59e)
+![image](https://github.com/user-attachments/assets/465abb8c-694d-4703-bdc6-7619ac0b2ca5)
+
+
+
