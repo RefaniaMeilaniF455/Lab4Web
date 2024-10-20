@@ -12,6 +12,10 @@
 4. Layout Sederhana
 ![image](https://github.com/user-attachments/assets/e1adb738-1071-411c-8e81-5ad0bfc4a59e)
 ![image](https://github.com/user-attachments/assets/465abb8c-694d-4703-bdc6-7619ac0b2ca5)
+![image](https://github.com/user-attachments/assets/86967763-dc54-4db9-8e31-30786ab54a9c)
+![image](https://github.com/user-attachments/assets/aa67c826-8d39-40a8-a85e-4a1fed484979)
+
+
 
 
 
