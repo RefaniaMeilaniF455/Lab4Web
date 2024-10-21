@@ -14,7 +14,7 @@
 ![image](https://github.com/user-attachments/assets/9cc7e62f-25fc-4c5d-a315-779c54b8823c)
 ![image](https://github.com/user-attachments/assets/6b4f8669-780e-4eff-b22f-bddf5a69cb99)
 ![image](https://github.com/user-attachments/assets/37c65241-fb91-407a-bb11-8df2c3887b6d)
-# 5. Tampilan Kontak
+# 5. Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message.
 ![image](https://github.com/user-attachments/assets/aff3755a-cfb3-42cc-93dd-c32588614e61)
 
 
