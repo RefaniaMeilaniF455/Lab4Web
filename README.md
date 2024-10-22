@@ -17,7 +17,7 @@
 
 # TUGAS
 1. Tambahkan Layout untuk menu About, buat single layout berisi deskripsi,portofoli
-
+![image](https://github.com/user-attachments/assets/dce6ffb3-6b8e-411a-b905-1df57874ee74)
 ![image](https://github.com/user-attachments/assets/b2e4f84b-36f1-42a4-bded-fa5ad2d45300)
 
 # 2. Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message.
